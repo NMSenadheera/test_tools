@@ -1,3 +1,3 @@
-![CI](https://github.com/naduni123/text-tools/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/NMSeandheera/text-tools/actions/workflows/ci.yml/badge.svg)
 # test_tools
 
