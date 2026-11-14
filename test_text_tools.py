@@ -1,4 +1,5 @@
-from text_tools import reverse_string, count_words, is_palindrome
+from text_tools import count_words, is_palindrome, reverse_string
+
 
 def test_reverse_string():
   assert reverse_string("hello") == "olleh"
